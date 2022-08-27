@@ -7,8 +7,8 @@ Problems on which greedy approach work has two properties:
    An optimal solution to the problem contains an optimal solution to subproblems
 
 ## Applications
-1. [Activity Selection Problem](https://github.com/juno-the-programmer/data-structure-javascript/algorithm/Greedy/activity-selection.js)
+1. [Activity Selection Problem](https://github.com/juno-the-programmer/data-structure-javascript/Algorithm/Greedy/activity-selection.js)
 2. Huffman Coding
-3. [Job Sequencing Problem](https://github.com/juno-the-programmer/data-structure-javascript/algorithm/Greedy/job-sequencing.js)
+3. [Job Sequencing Problem](https://github.com/juno-the-programmer/data-structure-javascript/Algorithm/Greedy/job-sequencing.js)
 4. Fractional Knapsack Problem
 5. Prim's Minimum Spanning Tree
